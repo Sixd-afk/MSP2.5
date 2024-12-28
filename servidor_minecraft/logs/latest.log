@@ -277,3 +277,15 @@
 [28Dec2024 05:10:47.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
 [28Dec2024 05:10:58.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [28Dec2024 05:10:58.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ip<--[HERE]
+[28Dec2024 05:17:05.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Dec2024 05:17:05.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[28Dec2024 05:17:25.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sxyu[/100.117.19.2:58696] logged in with entity id 432 at (2.5, 125.0, 9.5)
+[28Dec2024 05:17:25.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sxyu joined the game
+[28Dec2024 05:18:06.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sxyu> .-.
+[28Dec2024 05:18:07.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sxyu> .
+[28Dec2024 05:18:08.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sxyu> .
+[28Dec2024 05:18:08.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sxyu> .
+[28Dec2024 05:18:09.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sxyu> .
+[28Dec2024 05:18:26.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Sxyu a server operator
+[28Dec2024 05:20:37.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sxyu lost connection: Disconnected
+[28Dec2024 05:20:37.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sxyu left the game
